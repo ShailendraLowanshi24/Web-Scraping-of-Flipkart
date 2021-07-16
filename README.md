@@ -2,6 +2,7 @@
 Web scraping is done on Mobile Categories
 
 Libraries Used:
+
 1)BeautifulSoup
 
 2)Requests
